@@ -5,12 +5,6 @@ Ce projet est un **site web interactif sur les stades de football**. Il présent
 
 Le site inclut également un **système de traduction FR / EN / HE** avec des drapeaux pour changer la langue instantanément, et la langue choisie reste active lors de la navigation entre les pages.
 
----
-
-## Aperçu
-![Accueil](images/accueil.png)
-![Top 5 des stades](images/stade.png)
-
 ## Fonctionnalités principales
 - Navigation multi-pages :
   - Accueil
