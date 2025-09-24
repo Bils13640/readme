@@ -1,7 +1,7 @@
 # Stades de Foot
 
 ## Description du projet
-Ce projet est un site web interactif consacré aux **stades de football**. Il présente les stades les plus célèbres d’Europe, avec des informations sur leur histoire, leur capacité et leur ambiance unique. Les visiteurs peuvent découvrir le **top 5 des stades européens**, voir des anecdotes et s’immerger dans la passion du football.
+Ce projet est un site web interactif consacré aux **stades de football**. Il présente les stades les plus célèbres d’Europe, avec des informations sur leur histoire, leur capacité et leur ambiance unique. Les visiteurs peuvent découvrir le **top 5 des stades européens**, s’immerger dans la passion du football.
 
 Le site propose également un **système de traduction en plusieurs langues (FR / EN )** , et la langue choisie ne reste pas active lors de la navigation entre les pages.
 
