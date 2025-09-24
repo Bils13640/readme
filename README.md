@@ -12,7 +12,7 @@ Le site propose également un **système de traduction en plusieurs langues (FR 
 - Informations détaillées : date de construction, capacité, ambiance.  
 - Section “Le Saviez-vous ?” avec des faits intéressants et fun sur le football et les stades.  
 - **Navigation multi-pages** : Accueil, Top 5 des stades, Histoire des stades, Contact, Vidéo.  
-- **Traduction instantanée** : Français, Anglais et Hébreu avec persistance entre les pages.  
+- **Traduction instantanée** : Français et Anglais .  
 - Design responsive et simple à utiliser sur mobile et ordinateur.
 
 ---
@@ -21,3 +21,4 @@ Le site propose également un **système de traduction en plusieurs langues (FR 
 - Pour **les amateurs de football**, ce site permet de découvrir les stades mythiques et leur histoire.  
 - Pour **les étudiants ou débutants en développement web**, c’est un exemple de projet pratique intégrant HTML, CSS et JavaScript pour la traduction et la navigation multi-pages.  
 - Fournit une **base pour apprendre à gérer le multilingue sur un site statique**, ce qui est très utile dans le développement web moderne.
+---
