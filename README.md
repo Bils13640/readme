@@ -11,10 +11,6 @@ Le site inclut également un **système de traduction FR / EN / HE** avec des dr
 ![Accueil](images/accueil.png)
 ![Top 5 des stades](images/stade.png)
 
-> Un GIF montrant le changement de langue serait encore plus interactif.
-
----
-
 ## Fonctionnalités principales
 - Navigation multi-pages :
   - Accueil
@@ -31,13 +27,3 @@ Le site inclut également un **système de traduction FR / EN / HE** avec des dr
   - San Siro
   - Anfield
   - Vélodrome
-
----
-
-## Démo en ligne
-Si hébergé via GitHub Pages :  
-[Voir le site](https://ton-utilisateur.github.io/stades-de-foot/)
-
----
-
-## Structure du projet
